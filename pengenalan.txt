@@ -1,2 +1,14 @@
 Nama saya Ahmat Firdaus, saya programmer javascript pemula
 mohon bantuannya
+
+skill yang saya miliki
+1. html
+2. css
+3. javascript
+4. node js
+5. express js
+6. @hapi/hapi
+7. react
+8. postman
+9. mango db
+10. my sql
